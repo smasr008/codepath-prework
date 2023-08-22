@@ -32,7 +32,11 @@ GIF created with kap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+
+The challenges I faced while building this app mainly surfaced when I
+tried to make a gif show on my repository. The app was straightforward and I enjoyed
+exploring the functionality of xcode and how much I was able to customize this app.
 
 ## License
 
